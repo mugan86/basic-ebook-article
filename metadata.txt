@@ -1,0 +1,6 @@
+---
+title: ¡Portada EBook!
+author: Anartz Mugika Ledo
+lang: es-ES
+cover-image: cover-pandoc.png
+---
