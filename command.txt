@@ -1,1 +1,2 @@
-pandoc -o dist/book.epub metadata.txt src/*.md --table-of-contents
+pandoc -o dist/book.epub metadata.txt src/*.md --table-of-contents (SIN ESTILOS)
+pandoc -o dist/book-with-css.epub metadata.txt src/*.md --table-of-contents --css styles.css (CON ESTILOS)

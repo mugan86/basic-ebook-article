@@ -1,0 +1,18 @@
+h1, h2, h3 {
+    color: white;
+}
+h1 {
+    background-color: brown;
+}
+
+h2 {
+    background-color: rgb(51, 203, 34);
+}
+
+h3 {
+    background-color: rgb(25, 78, 237);
+}
+
+ul > li {
+    list-style-type: square;
+}
